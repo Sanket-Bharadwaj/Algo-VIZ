@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🧠 AlgoVIZ - 3D Algorithm Visualizer
 
-**URL**: https://lovable.dev/projects/74166cec-cf15-44a6-8ba4-016528f3e6b1
+[![GitHub Stars](https://img.shields.io/github/stars/Sanket-Bharadwaj/AlgoVIZ?style=social)](https://github.com/Sanket-Bharadwaj/AlgoVIZ/stargazers)
+[![License](https://img.shields.io/github/license/Sanket-Bharadwaj/AlgoVIZ)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/Sanket-Bharadwaj/AlgoVIZ)](https://github.com/Sanket-Bharadwaj/AlgoVIZ/issues)
 
-## How can I edit this code?
+🚀 **AlgoVIZ** is a visually-rich, interactive 3D visualizer for classic algorithms. Dive into data structures and algorithm behavior like never before — in real time, rendered in 3D.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🧹 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/74166cec-cf15-44a6-8ba4-016528f3e6b1) and start prompting.
+* 📊 **Sorting Visualizations** – Bubble, Merge, Quick, and more
+* 🔍 **Searching Algorithms** – Linear, Binary
+* 🌐 **Graph Algorithms** – DFS, BFS, Dijkstra’s (coming soon!)
+* 🎮 **Interactive 3D Interface** – Powered by Three.js for immersive exploration
+* ⚡ **Step-by-Step Execution** – Observe every comparison and swap
+* 🌃 **Responsive Design** – Works across devices and resolutions
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 📸 Preview
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+> ![diagram](https://github.com/user-attachments/assets/854ec36f-69de-4fc9-8efe-5dd7de6c13fd)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ⚙️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* 🧪 Vite + TypeScript
+* 🎨 Tailwind CSS
+* 🌐 Three.js
+* ⚛️ React
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🚀 Getting Started
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+# 1. Clone the repository
+git clone https://github.com/Sanket-Bharadwaj/AlgoVIZ.git
+cd AlgoVIZ
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Then open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 📌 Roadmap
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+* [ ] Add more sorting algorithms (Heap, Radix)
+* [ ] Add shortest path visualizations
+* [ ] Add time complexity charts
+* [ ] Add pause/step controls
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🤝 Contributing
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Contributions are welcome! Please fork the repo and create a PR. You can also open an issue for ideas, bugs, or discussions.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/74166cec-cf15-44a6-8ba4-016528f3e6b1) and click on Share -> Publish.
+## �� License
 
-## Can I connect a custom domain to my Lovable project?
+MIT © [Sanket Bharadwaj](https://github.com/Sanket-Bharadwaj)
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 💡 Inspiration
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Inspired by the need to *see* how algorithms behave — not just read about them. This project aims to bridge the gap between theory and visual understanding using 3D.
+
+---
+
+## 📬 Contact
+
+DM on [Instagram](https://www.instagram.com/sanket_half_blood) or connect on [GitHub](https://github.com/Sanket-Bharadwaj)
