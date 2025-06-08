@@ -22,7 +22,7 @@
 
 ## 📸 Preview
 
-> ![diagram](https://github.com/user-attachments/assets/854ec36f-69de-4fc9-8efe-5dd7de6c13fd)
+![diagram](https://github.com/user-attachments/assets/f403b47d-8d63-46c8-8646-69d6488de19a)
 
 ---
 
